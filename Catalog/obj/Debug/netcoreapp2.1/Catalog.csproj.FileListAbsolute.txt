@@ -1,0 +1,14 @@
+C:\Projects\ocelot\Catalog\bin\Debug\netcoreapp2.1\Catalog.deps.json
+C:\Projects\ocelot\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.json
+C:\Projects\ocelot\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+C:\Projects\ocelot\Catalog\bin\Debug\netcoreapp2.1\Catalog.dll
+C:\Projects\ocelot\Catalog\bin\Debug\netcoreapp2.1\Catalog.pdb
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.csprojAssemblyReference.cache
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cache
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cs
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfo.cs
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorTargetAssemblyInfo.cache
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.dll
+C:\Projects\ocelot\Catalog\obj\Debug\netcoreapp2.1\Catalog.pdb

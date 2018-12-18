@@ -1,0 +1,14 @@
+C:\Projects\ocelot\Gateway\bin\Debug\netcoreapp2.1\Gateway.deps.json
+C:\Projects\ocelot\Gateway\bin\Debug\netcoreapp2.1\Gateway.runtimeconfig.json
+C:\Projects\ocelot\Gateway\bin\Debug\netcoreapp2.1\Gateway.runtimeconfig.dev.json
+C:\Projects\ocelot\Gateway\bin\Debug\netcoreapp2.1\Gateway.dll
+C:\Projects\ocelot\Gateway\bin\Debug\netcoreapp2.1\Gateway.pdb
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.csprojAssemblyReference.cache
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.csproj.CoreCompileInputs.cache
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.RazorAssemblyInfo.cache
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.RazorAssemblyInfo.cs
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.AssemblyInfoInputs.cache
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.AssemblyInfo.cs
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.RazorTargetAssemblyInfo.cache
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.dll
+C:\Projects\ocelot\Gateway\obj\Debug\netcoreapp2.1\Gateway.pdb

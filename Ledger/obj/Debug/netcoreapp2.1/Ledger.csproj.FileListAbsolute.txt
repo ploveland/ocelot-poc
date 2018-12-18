@@ -1,0 +1,14 @@
+C:\Projects\ocelot\Ledger\bin\Debug\netcoreapp2.1\Ledger.deps.json
+C:\Projects\ocelot\Ledger\bin\Debug\netcoreapp2.1\Ledger.runtimeconfig.json
+C:\Projects\ocelot\Ledger\bin\Debug\netcoreapp2.1\Ledger.runtimeconfig.dev.json
+C:\Projects\ocelot\Ledger\bin\Debug\netcoreapp2.1\Ledger.dll
+C:\Projects\ocelot\Ledger\bin\Debug\netcoreapp2.1\Ledger.pdb
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.csprojAssemblyReference.cache
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.csproj.CoreCompileInputs.cache
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.RazorAssemblyInfo.cache
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.RazorAssemblyInfo.cs
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.AssemblyInfoInputs.cache
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.AssemblyInfo.cs
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.RazorTargetAssemblyInfo.cache
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.dll
+C:\Projects\ocelot\Ledger\obj\Debug\netcoreapp2.1\Ledger.pdb
